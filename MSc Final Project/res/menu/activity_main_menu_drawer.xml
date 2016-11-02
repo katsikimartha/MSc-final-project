@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/conan"
+            android:icon="@drawable/conan_doyle"
+            android:title="Conan Doyle" />
+        <item
+            android:id="@+id/books"
+            android:icon="@drawable/books"
+            android:title="Books" />
+        <item
+            android:id="@+id/groups"
+            android:icon="@drawable/groups_friends"
+            android:title="Groups &amp; Friends" />
+        <item
+            android:id="@+id/news"
+            android:icon="@drawable/in_the_news"
+            android:title="News" />
+        <item
+            android:id="@+id/sherlock_holmes"
+            android:icon="@drawable/sherlock_holmes"
+            android:title="Sherlock Holmes" />
+        <item
+            android:id="@+id/spiritualism"
+            android:icon="@drawable/spiritualism"
+            android:title="Spiritualism" />
+        <item
+            android:id="@+id/sport"
+            android:icon="@drawable/sport"
+            android:title="Sport" />
+        <item
+            android:id="@+id/travel"
+            android:icon="@drawable/travel"
+            android:title="Travel" />
+        <item
+            android:id="@+id/everything"
+            android:icon="@drawable/ic_pin_drop_24dp"
+            android:title="View All Locations" />
+    </group>
+
+
+</menu>
